@@ -8,6 +8,3 @@ function transformed($num) {
 	}
 	return (int) $result;
 }
-
-var_dump(transformed(991));
-var_dump(transformed(982));
