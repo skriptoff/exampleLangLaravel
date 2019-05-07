@@ -1,2 +1,2 @@
-# exampleLangLaravel
+# example code
 Example code
